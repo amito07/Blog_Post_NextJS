@@ -1,7 +1,9 @@
 const index = () => {
   return (
-    <div>HomePost</div>
-  )
-}
+    <>
+      <div>HomePost</div>
+    </>
+  );
+};
 
-export default index
+export default index;
